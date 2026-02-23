@@ -1,0 +1,17 @@
+body {
+    background-color: #1e1e2f;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 3rem;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
